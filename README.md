@@ -1,2 +1,12 @@
 # HLK7688_CAM
-build_script
+
+
+## sh sh1.sh 실행 
+  sh sh1.sh
+
+## sh sh2.sh 실행
+  sh sh2.sh
+  
+  
+
+
