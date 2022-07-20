@@ -1,5 +1,5 @@
 #!/bin/sh
-opkg update
+# opkg update
 opkg install ffmpeg ffserver usbutils kmod-usb2 kmod-video-uvc  python3-pyserial openssh-sftp-server openssh-keygen sshpass
 mkdir /root/usbcam
 
