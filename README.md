@@ -8,6 +8,9 @@
     sh sh1.sh
 ## sh sh2.sh 실행
     sh sh2.sh
+
+## sh sh3.sh 실행
+    sh sh3.sh
   
   
   
