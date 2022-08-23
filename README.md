@@ -1,6 +1,8 @@
 # HLK7688_CAM
 
 ## 업데이트
+    uci set network.lan.proto=dhcp
+    /etc/init.d/network restart
     opkg update
     opkg install git-http
 
