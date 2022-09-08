@@ -10,16 +10,12 @@
     cd
     git clone https://github.com/choichangjun/HLK7688_CAM.git
 
-## sh sh1.sh 실행 
-
-    sh sh1.sh
-## sh sh2.sh 실행
-    sh sh2.sh
-
-## sh sh3.sh 실행
-    sh sh3.sh
+## sh  1_network_setting.sh 실행 
+## sh 2_install_package_mv_Files_Service_enable.sh 실행
+## sh 3_Setting_static_IP.sh 실행
+    
   
-  
+
   
   
 
