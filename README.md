@@ -1,5 +1,6 @@
 # HLK7688_CAM
 
+![image](https://user-images.githubusercontent.com/30309434/189016286-eba97ad1-815e-48d3-989e-e295a9d89cab.png)
 
 
 ## 1. 업데이트
