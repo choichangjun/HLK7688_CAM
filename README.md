@@ -10,11 +10,11 @@
     cd
     git clone https://github.com/choichangjun/HLK7688_CAM.git
 
-## sh  1_network_setting.sh 실행
+## 1. 네트워크 및 방화벽 설정 
     sh 1_network_setting.sh
-## sh 2_install_package_mv_Files_Service_enable.sh 실행
+## 2. 패키지설치 및 서비스 등록 
     sh 2_install_package_mv_Files_Service_enable.sh
-## sh 3_Setting_static_IP.sh 실행
+## 3. 고정 IP 설정 
     sh 3_Setting_static_IP.sh
     
   
