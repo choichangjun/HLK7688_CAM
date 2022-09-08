@@ -1,5 +1,7 @@
 # HLK7688_CAM
 
+
+
 ## 1. 업데이트
     uci set network.lan.proto=dhcp
     /etc/init.d/network restart
